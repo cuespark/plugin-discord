@@ -9,5 +9,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-discord/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-discord/releases/download/v0.1.0-alpha.4/plugin-discord.zip",
-  "sha256": "49046253002ec6eef3f8c9abc5c8d1fab8d945c9447272e053b3bbe840bc6026"
+  "sha256": "282510dc152de3519d68fc58fb857b6e927b0148724ebcc5584328ad8fc8e76d"
 }
