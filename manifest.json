@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-discord/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-discord/releases/download/v0.1.0-alpha.4/plugin-discord.zip",
-  "sha256": "90883c147797ca1c3419aa08c9883661b73170e0e677e59214b008f2b61f1008"
+  "sha256": "b60ffa718945ecd71004544ec48472cee0e16c96b0f95f3bc5bb46b9dc375786"
 }
