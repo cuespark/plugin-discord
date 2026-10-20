@@ -6,8 +6,8 @@
   "icon": "ri:discord-fill",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-discord/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-discord/releases/download/v0.1.0-alpha.4/plugin-discord.zip",
-  "sha256": "282510dc152de3519d68fc58fb857b6e927b0148724ebcc5584328ad8fc8e76d"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-discord/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-discord/releases/download/v0.1.0-alpha.4/plugin-discord.zip",
+  "sha256": "edf2be7ac65fd6f41d8ffa8782c4ddea8d0dd8e22af74e3182273af1155d88a3"
 }
